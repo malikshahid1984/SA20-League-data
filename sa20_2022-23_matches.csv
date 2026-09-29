@@ -1,0 +1,34 @@
+match_id,date,venue,team1,team2,team1_score,team2_score,winner,toss_winner,toss_decision,total_balls,avg_1st_innings_score,pitch_type
+1343941.json,2023-01-10,"Newlands, Cape Town",Paarl Royals,MI Cape Town,142/7,143/2,MI Cape Town,MI Cape Town,field,221,159.2,Balanced
+1343942.json,2023-01-11,"Kingsmead, Durban",Joburg Super Kings,Durban's Super Giants,190/6,174/5,Joburg Super Kings,Joburg Super Kings,bat,251,159.2,Balanced
+1343943.json,2023-01-12,"St George's Park, Gqeberha",Pretoria Capitals,Sunrisers Eastern Cape,193/6,170/5,Pretoria Capitals,Sunrisers Eastern Cape,field,244,159.2,Balanced
+1343944.json,2023-01-13,"Boland Park, Paarl",Joburg Super Kings,Paarl Royals,81/10,82/3,Paarl Royals,Joburg Super Kings,bat,171,159.2,Balanced
+1343945.json,2023-01-13,"Newlands, Cape Town",MI Cape Town,Durban's Super Giants,152/8,154/5,Durban's Super Giants,Durban's Super Giants,field,226,159.2,Balanced
+1343946.json,2023-01-14,"SuperSport Park, Centurion",Pretoria Capitals,Sunrisers Eastern Cape,216/6,179/7,Pretoria Capitals,Sunrisers Eastern Cape,field,248,159.2,Balanced
+1343947.json,2023-01-14,"Newlands, Cape Town",Joburg Super Kings,MI Cape Town,105/9,107/3,MI Cape Town,MI Cape Town,field,231,159.2,Balanced
+1343948.json,2023-01-15,"Kingsmead, Durban",Durban's Super Giants,Paarl Royals,216/4,189/8,Durban's Super Giants,Durban's Super Giants,bat,255,159.2,Balanced
+1343949.json,2023-01-16,"St George's Park, Gqeberha",MI Cape Town,Sunrisers Eastern Cape,158/8,162/6,Sunrisers Eastern Cape,Sunrisers Eastern Cape,field,243,159.2,Balanced
+1343950.json,2023-01-17,"Boland Park, Paarl",Paarl Royals,Durban's Super Giants,169/6,159/8,Paarl Royals,Durban's Super Giants,field,255,159.2,Balanced
+1343951.json,2023-01-17,"The Wanderers Stadium, Johannesburg",Joburg Super Kings,Pretoria Capitals,168/6,162/10,Joburg Super Kings,Pretoria Capitals,field,249,159.2,Balanced
+1343952.json,2023-01-18,"Newlands, Cape Town",MI Cape Town,Sunrisers Eastern Cape,171/6,172/8,Sunrisers Eastern Cape,Sunrisers Eastern Cape,field,250,159.2,Balanced
+1343953.json,2023-01-18,"SuperSport Park, Centurion",Joburg Super Kings,Pretoria Capitals,122/10,123/4,Pretoria Capitals,Pretoria Capitals,field,179,159.2,Balanced
+1343954.json,2023-01-19,"Boland Park, Paarl",Paarl Royals,Sunrisers Eastern Cape,127/7,131/5,Sunrisers Eastern Cape,Sunrisers Eastern Cape,field,236,159.2,Balanced
+1343955.json,2023-01-20,"Kingsmead, Durban",Durban's Super Giants,Pretoria Capitals,80/10,84/2,Pretoria Capitals,Durban's Super Giants,bat,159,159.2,Balanced
+1343956.json,2023-01-21,"Boland Park, Paarl",MI Cape Town,Paarl Royals,142/9,129/6,MI Cape Town,Paarl Royals,field,247,159.2,Balanced
+1343957.json,2023-01-21,"St George's Park, Gqeberha",Sunrisers Eastern Cape,Joburg Super Kings,127/10,128/5,Joburg Super Kings,Joburg Super Kings,field,239,159.2,Balanced
+1343958.json,2023-01-22,"Boland Park, Paarl",Pretoria Capitals,Paarl Royals,158/6,162/4,Paarl Royals,Pretoria Capitals,bat,250,159.2,Balanced
+1343959.json,2023-01-22,"St George's Park, Gqeberha",Sunrisers Eastern Cape,Durban's Super Giants,210/2,86/10,Sunrisers Eastern Cape,Durban's Super Giants,field,213,159.2,Balanced
+1343960.json,2023-01-23,"Newlands, Cape Town",Pretoria Capitals,MI Cape Town,182/8,130/10,Pretoria Capitals,MI Cape Town,field,240,159.2,Balanced
+1343961.json,2023-01-24,"St George's Park, Gqeberha",Sunrisers Eastern Cape,Paarl Royals,130/7,131/5,Paarl Royals,Sunrisers Eastern Cape,bat,236,159.2,Balanced
+1343962.json,2023-01-24,"The Wanderers Stadium, Johannesburg",Durban's Super Giants,Joburg Super Kings,178/6,182/2,Joburg Super Kings,Joburg Super Kings,field,241,159.2,Balanced
+1343963.json,2023-02-02,"Kingsmead, Durban",MI Cape Town,Durban's Super Giants,165/5,169/5,Durban's Super Giants,Durban's Super Giants,field,253,159.2,Balanced
+1343964.json,2023-02-03,"The Wanderers Stadium, Johannesburg",Paarl Royals,Joburg Super Kings,131/4,0/0,Unknown,Joburg Super Kings,field,92,159.2,Balanced
+1343965.json,2023-02-03,"Kingsmead, Durban",Sunrisers Eastern Cape,Durban's Super Giants,53/3,0/0,Unknown,Durban's Super Giants,field,34,159.2,Balanced
+1343966.json,2023-02-04,"SuperSport Park, Centurion",MI Cape Town,Pretoria Capitals,159/10,160/9,Pretoria Capitals,Pretoria Capitals,field,251,159.2,Balanced
+1343967.json,2023-02-05,"The Wanderers Stadium, Johannesburg",Joburg Super Kings,Sunrisers Eastern Cape,160/6,136/9,Joburg Super Kings,Joburg Super Kings,bat,247,159.2,Balanced
+1343968.json,2023-02-05,"SuperSport Park, Centurion",Durban's Super Giants,Pretoria Capitals,254/4,103/10,Durban's Super Giants,Pretoria Capitals,field,213,159.2,Balanced
+1343969.json,2023-02-06,"The Wanderers Stadium, Johannesburg",Joburg Super Kings,MI Cape Town,189/6,113/10,Joburg Super Kings,MI Cape Town,field,235,159.2,Balanced
+1343970.json,2023-02-07,"SuperSport Park, Centurion",Pretoria Capitals,Paarl Royals,226/5,167/9,Pretoria Capitals,Paarl Royals,field,252,159.2,Balanced
+1343971.json,2023-02-08,"The Wanderers Stadium, Johannesburg",Pretoria Capitals,Paarl Royals,153/8,124/10,Pretoria Capitals,Paarl Royals,field,249,159.2,Balanced
+1343972.json,2023-02-09,"SuperSport Park, Centurion",Sunrisers Eastern Cape,Joburg Super Kings,213/5,199/6,Sunrisers Eastern Cape,Joburg Super Kings,field,257,159.2,Balanced
+1343973.json,2023-02-11,"The Wanderers Stadium, Johannesburg",Pretoria Capitals,Sunrisers Eastern Cape,135/10,137/6,Sunrisers Eastern Cape,Sunrisers Eastern Cape,field,225,159.2,Balanced
